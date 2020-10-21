@@ -1,0 +1,32 @@
+[
+  {
+    "productID": 1,
+    "name": "Hiking Boots",
+    "desc": "Sturdy rubber soles to keep you grounded.",
+    "price": 49.00
+  },
+  {
+    "productID": 2,
+    "name": "Camp Stove",
+    "desc": "Perfect for a preparing a hot meal on the trail.",
+    "price": 35.00
+  },
+  {
+    "productID": 3,
+    "name": "Backpack",
+    "desc": "Stores all your gear in a compact package.",
+    "price": 65.00
+  },
+  {
+    "productID": 4,
+    "name": "Trail Tent",
+    "desc": "Lightweight and packs up neatly in a backpack.",
+    "price": 21.00
+  },
+  {
+    "productID": 5,
+    "name": "Camp Tools",
+    "desc": "A collection of handy tools for a weekend in the woods.",
+    "price": 40.00
+  }
+]
