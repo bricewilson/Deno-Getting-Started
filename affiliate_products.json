@@ -12,12 +12,5 @@
     "desc": "Stores all your gear in a compact package.",
     "price": 65,
     "affiliateID": 5
-  },
-  {
-    "productID": 5,
-    "name": "Camp Tools",
-    "desc": "A collection of handy tools for a weekend in the woods.",
-    "price": 42,
-    "affiliateID": 5
   }
 ]
