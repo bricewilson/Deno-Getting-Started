@@ -1,0 +1,3 @@
+export { getDataUrl } from 'https://raw.githubusercontent.com/bricewilson/Deno-Getting-Started/Linking_to_External_Code/affiliate_data.ts';
+export { getThresholdPrice } from 'https://raw.githubusercontent.com/bricewilson/Deno-Getting-Started/Linking_to_External_Code/pricing_rules.ts';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZGVwcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbImRlcHMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxFQUFFLFVBQVUsRUFBRSxNQUFNLCtHQUErRyxDQUFDO0FBQzNJLE9BQU8sRUFBRSxpQkFBaUIsRUFBRSxNQUFNLDhHQUE4RyxDQUFDIn0=
