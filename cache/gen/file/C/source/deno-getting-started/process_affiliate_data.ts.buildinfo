@@ -242,7 +242,7 @@
         "affectsGlobalScope": false
       },
       "https://raw.githubusercontent.com/bricewilson/Deno-Getting-Started/Linking_to_External_Code/pricing_rules.ts": {
-        "version": "c3e361478526ddfb427cb3305c90a06c16bd2000ab80289b29063674f2ae1203",
+        "version": "ffc9519cc6ca60fea98274b3a8938131f7eac1684439da42bb2d3f955196940d",
         "signature": "b0b3e2bb4a0d4937d266c6d9a3d01f5d7a2b6707540a9bcd022faaccb45da09a",
         "affectsGlobalScope": false
       },
