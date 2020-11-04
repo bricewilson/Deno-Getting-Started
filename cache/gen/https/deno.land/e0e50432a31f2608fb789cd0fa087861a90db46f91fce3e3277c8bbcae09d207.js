@@ -1,0 +1,9 @@
+export const encoder = new TextEncoder();
+export function encode(input) {
+    return encoder.encode(input);
+}
+export const decoder = new TextDecoder();
+export function decode(input) {
+    return decoder.decode(input);
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidXRmOC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbInV0ZjgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBR0EsTUFBTSxDQUFDLE1BQU0sT0FBTyxHQUFHLElBQUksV0FBVyxFQUFFLENBQUM7QUFHekMsTUFBTSxVQUFVLE1BQU0sQ0FBQyxLQUFjO0lBQ25DLE9BQU8sT0FBTyxDQUFDLE1BQU0sQ0FBQyxLQUFLLENBQUMsQ0FBQztBQUMvQixDQUFDO0FBR0QsTUFBTSxDQUFDLE1BQU0sT0FBTyxHQUFHLElBQUksV0FBVyxFQUFFLENBQUM7QUFHekMsTUFBTSxVQUFVLE1BQU0sQ0FBQyxLQUFrQjtJQUN2QyxPQUFPLE9BQU8sQ0FBQyxNQUFNLENBQUMsS0FBSyxDQUFDLENBQUM7QUFDL0IsQ0FBQyJ9
