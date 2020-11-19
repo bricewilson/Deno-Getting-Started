@@ -1,3 +1,4 @@
+// deno-lint-ignore no-explicit-any
 export function getThresholdPrice(affiliateID: any): number {
   switch (affiliateID) {
     case 1:
@@ -7,5 +8,4 @@ export function getThresholdPrice(affiliateID: any): number {
     default:
       return 40;
   }
-  return 0;
-};
+}
