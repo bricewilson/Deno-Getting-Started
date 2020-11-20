@@ -1,0 +1,16 @@
+[
+  {
+    "productID": 1,
+    "name": "Hiking Boots",
+    "desc": "Sturdy rubber soles to keep you grounded.",
+    "price": 49,
+    "affiliateID": 5
+  },
+  {
+    "productID": 3,
+    "name": "Backpack",
+    "desc": "Stores all your gear in a compact package.",
+    "price": 65,
+    "affiliateID": 5
+  }
+]
